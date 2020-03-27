@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585319905 source:e:\studia\pamsi\projekty\projekt 1 - sortowanie\algorytmysortujace\main.cpp
+	<iostream>
+	<cmath>
+	<time.h>
+

@@ -1,0 +1,320 @@
+====================
+Number of table elements: 10000
+All random
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 10000
+ Sorted at the beginning: 25 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 10000
+ Sorted at the beginning: 50 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 10000
+ Sorted at the beginning: 75 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 10000
+ Sorted at the beginning: 95 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 10000
+ Sorted at the beginning: 99 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 10000
+ Sorted at the beginning: 99.7 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 10000
+Sorted and reversed
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 50000
+All random
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 50000
+ Sorted at the beginning: 25 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 50000
+ Sorted at the beginning: 50 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 50000
+ Sorted at the beginning: 75 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 50000
+ Sorted at the beginning: 95 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 50000
+ Sorted at the beginning: 99 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 50000
+ Sorted at the beginning: 99.7 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 50000
+Sorted and reversed
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+All random
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 25 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 50 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 75 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 95 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 99 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 99.7 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+Sorted and reversed
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 500000
+All random
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 500000
+ Sorted at the beginning: 25 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 500000
+ Sorted at the beginning: 50 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 500000
+ Sorted at the beginning: 75 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 500000
+ Sorted at the beginning: 95 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 500000
+ Sorted at the beginning: 99 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 500000
+ Sorted at the beginning: 99.7 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 500000
+Sorted and reversed
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+All random
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 25 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 50 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 75 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 95 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 99 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+ Sorted at the beginning: 99.7 %
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================
+====================
+Number of table elements: 100000
+Sorted and reversed
+====Sorting time====
+ Quicksort: 0 [10^-6 s]
+ MergeSort: 0 [10^-6 s]
+ Introsort: 0 [10^-6 s]
+====================

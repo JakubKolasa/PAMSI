@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1585308277 source:e:\studia\pamsi\projekty\projekt 1 - sortowanie\sortowanie\src\sorter.cpp
+	"Sorter.h"
+
+1585325068 e:\studia\pamsi\projekty\projekt 1 - sortowanie\sortowanie\include\sorter.h
+	<iostream>
+	<fstream>
+	<chrono>
+	<cmath>
+
+1585325191 source:e:\studia\pamsi\projekty\projekt 1 - sortowanie\sortowanie\main.cpp
+	<iostream>
+	<Sorter.h>
+	<dirent.h>
+
+1585269014 e:\studia\pamsi\projekty\projekt 1 - sortowanie\sortowanie\include\sort.h
+	<iostream>
+	<cmath>
+
